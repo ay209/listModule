@@ -1,3 +1,7 @@
+(* listBib.v
+  A library of lists of length n (ilist n), inspired by OCaml's List
+  module and written with the Equations plugin.
+*)
 Module IList.
 Require Import Arith.
 From Equations Require Import Equations.

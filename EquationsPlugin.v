@@ -1,14 +1,9 @@
+(* EquationsPlugin.v
+  First steps with the Equations plugin, on ordinary (non-indexed) lists.
+*)
 From Equations Require Import Equations.
 
-(*This axiom is used to cheat a little bit.
-We say that there is a value for every type,
-which is false. It is useful when we are writing a
-function & we don't want to implement a branch yet.
-Equivalents in different languages :
-Lean : sorry
-Haskell : undefined
-OCaml : failwith "TODO"
-Coq normal : admit*)
+
 Axiom to_fill : forall A, A.
 Arguments to_fill {_}.
 

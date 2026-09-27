@@ -1,3 +1,6 @@
+(* typesDependent.v
+  From plain lists to lists indexed by their length (ilist n).
+*)
 Require Import List.
 Import ListNotations.
 From Equations Require Import Equations.
