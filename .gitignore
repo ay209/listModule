@@ -1,0 +1,15 @@
+_CoqProject
+typ-dep.pdf
+typhet.pdf
+theories/
+.DS_Store
+1507.08720v1.pdf
+Lambdapi/alcotest
+agda/
+*.agdai
+*.vo
+*.vok
+*.vos
+*.glob
+.*.aux
+lean/Untitled/.github/
